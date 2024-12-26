@@ -12,4 +12,4 @@ Explanation: 2 does not exist in nums so return -1
 '''
 
 def search(nums, target):
-    
+    return
